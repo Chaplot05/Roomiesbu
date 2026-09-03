@@ -18,6 +18,13 @@ Let's be real—getting randomly assigned a roommate can be a massive gamble. Yo
 
 Whether you're looking for a lively party scene or a silent sanctuary to sleep, RoomiesBU helps you filter and find your perfect match.
 
+## 📈 Traction & Impact (Real World Usage)
+Since launch, the platform has seen incredible engagement from the student body:
+- **570+ Active Users** onboarded.
+- **155+ Room/Roommate Listings** posted.
+- **500+ Interests (Connect Requests)** sent between users.
+- **100+ Successful Matches** made!
+
 ## 🚀 Features
 
 - **Vibe-Check Filters:** Filter profiles by smoking habits, diet (Veg/Non-veg), noise preferences (Party Animal vs. Silent Room), and course (like B.Tech).
