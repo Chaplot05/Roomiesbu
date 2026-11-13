@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./Roomiebu%20just%20the%20logo.png" alt="RoomiesBU Logo" width="120" />
   <h1>RoomiesBU</h1>
-  <p>Find your perfect roommate at Stony Brook University before the semester even starts! 🍕📚</p>
+  <p>Find your perfect roommate at Bennett University!!🍕📚</p>
   
   [![Live Demo](https://img.shields.io/badge/Live_Demo-roomiebu.vercel.app-000000?style=for-the-badge&logo=vercel)](https://roomiebu.vercel.app/)
 </div>
